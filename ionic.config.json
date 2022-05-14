@@ -1,0 +1,7 @@
+{
+  "name": "Woo_ionic_vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
